@@ -1,0 +1,470 @@
+-O codecov.sh https://codecov.io/bash
+'None" &&
+" Enum for the satisfaction options
+" Get Service Now
+" Leavers Workflow This can be triggered in 2
+" Line Manager
+" Local Development Settings
+" Methods "
+" Physical Asset Categories "
+" Physical Asset Statuses "
+" Returns the Line Manager
+" Returns True
+" Send Leaver
+" Send SRE Team
+" Send the Leaver
+" Set the security role to the Session
+" Store Extra
+" Store the Correction
+" Task Logs
+" The Asset's
+" The Service Now API Asset
+" The Service Now API User
+"Lost/Stolen"
+@media
+*Actions required:*\n
+# Joiners
+# Joiners Movers Leavers
+# People Finder
+# Staff
+| SLACK_SRE_CHANNEL_ID                                     | None                                       
+| SLACK_SRE_CHANNEL_ID                                     | None                                       |                                                           
+| TEMPLATE_ID_OCS_LEAVER_EMAIL                                     | None                                       
+| TEMPLATE_ID_SECURITY_OFFBOARD_RK_REMINDER_ONE_DAY_AFTER_LD       
+| TEMPLATE_ID_SECURITY_TEAM_OFFBOARD_LEAVER_REMINDER_EMAIL |
+| TEMPLATE_ID_SRE_REMINDER_TWO_DAYS_AFTER_LWD                      
+| UKSBS_INTERFACE                                                  
+0003_add_user_user_id
+0003_add_user_user_id
+0007_activitystreamstaffssouser_is_active
+0007_activitystreamstaffssouser_is_active
+0032_leavingrequest_reason_for_leaving
+0048_leaverinformation_leaver_date_of_birth
+0053_leavingrequest_processing_manager_activitystream_user
+100px
+234px
+7.7-.2
+8.7 39.7 21.8l42.7-27.2A97.63
+activity_stream.activitystreamstaffssouser
+ActivityStream
+add_missing_line_report_error
+Admin Views
+admin@opensearch:9200
+Annual Leave
+Annual Leave: "
+API
+aria-label="Show
+aria-labelledby="govuk
+AssetDetails
+Authbroker                   
+Automation
+AV Equipment'
+Base
+Baseline
+Baseline Personnel Security Standard
+before.</td>
+below.</a>
+Bench
+Build Staff Document
+Building Pass
+Building Pass Access Revoked
+building_pass_access_task_log
+C901
+card</li>{%
+channel_id
+checkbox
+Cirrus
+Cirrus Equipment
+Civil Servant
+Civil Servants
+class="govuk-button__start
+class="incomplete">To Do</span
+CLU4
+CLU4 Leaver Notification Email
+CLU4_EMAIL
+CLU4_EMAIL                                               |                                             
+COLOUR_GREEN=\033[32;01
+COLOUR_YELLOW=\033[33;01
+Compile SCSS
+confirm_leaver_data
+contact_address_postcode
+Convert
+Convert a Queryset
+Convert Request Data
+Correction Email
+Create ActivityStream
+Create Leaving Request
+Create Physical Asset
+Create Software Asset
+create_physical_asset
+Create/Update Staff ES
+crispy_forms_gds
+Crown
+CRSF
+CssFinder
+CTC
+Dashboard</a>
+Data
+date_of_birth
+date_of_birth_0"
+date_of_birth_2
+Days"
+DB
+Department 1
+Department 2
+Department for International Trade
+Department of International Trade
+Desktop'
+Dev
+Dev Tools
+Developed Vetting
+Digital
+Digital Workspace
+Digital Worskspace
+directorate_id
+Discuss
+Display non
+Display Screen Equipment
+Disposed Of"
+DIT
+DIT Activity
+DIT Leavers Service
+DIT Off-boarding Team
+DIT</li
+DjangoCelery
+DjangoTemplates
+DO NOT USE ON PRODUCTION
+Dockerfile.dev
+Drop
+DSE
+E501
+Elastic
+Email                             
+Email Templates
+email_id
+ends.</td
+Enhanced Security Check
+Example Building
+Example Grade
+expires_at
+f"<a href='{cancel_url
+f"ActivityStreamStaffSSOUser
+f"Asset
+f"Error
+f"Gsuite
+f"Physical Asset
+f"Software Asset
+f"sys_id={sys_id
+f"sys_id={sys_id'
+f"Thank
+f"user{n
+f"We
+F401
+Faulty"
+Feetham Security Pass Office
+Feetham Security Pass Office Leaver Notification Email
+Feetham Security Pass Office Settings
+feetham_security_pass_office_email
+Finder Raises
+Flexi Impacting Pay
+Flexi Leave
+Flexi leave.</li>
+for.</p
+Form
+form</h1
+from:</p>
+Get the Leaver StaffDocument
+Get the Leaving Request for the Leaver
+Github
+Google
+Google Analytics
+Google Drive
+Google Drive or Sharepoint
+GOVUK PAAS
+GOVUK_NOTIFY_API_KEY
+govuk_paas_access_task_log
+GPC
+Graphs
+Green Park
+gtm-head.html
+has_cirrus_kit
+HAWK_INCOMING_ACCESS_KEY
+HAWK_INCOMING_SECRET_KEY
+height="17
+height="30" width="36">
+Home Use"
+Hours
+HR_UKSBS_CORRECTION_EMAIL
+HR_UKSBS_CORRECTION_EMAIL                                
+href="?page=
+href="{%
+href="https://www.nationalarchives.gov.uk
+HSTS
+https://fake-uksbs.domain/hierarchy-api/1.0
+IE
+ill health</li>
+include:</p
+INDEX_CURRENT_USER_MIDDLEWARE                            
+Index](/docs
+INFO
+information</h1
+ingest_activity_stream
+Jira
+JML
+JML_TEAM_CONTACT_EMAIL"
+job_title"
+Joe
+Joe Bloggs
+joe.bloggs@example.com
+Joe"
+Joey
+JS
+Kit
+kit</th
+know:</p
+Laptop
+Leaver
+Leaver Email
+Leaver Final Actions Email
+Leaver Final Actions Email |  | X |  | X |  |  |  |
+leaver_activitystream_user__contact_email_address
+leaver_job_title
+leaver_paid_unpaid
+Leaver's Notification Form
+leaverLastDay
+Leavers and Line Managers
+LeaversWorkflow
+Leaving Date - lm
+Leaving Request
+Leaving Request Admin
+leaving_request.holds_government_procurement_card
+leaving_request.is_rosa_user
+LeavingRequest
+LEGACY_PEOPLE_FINDER_ES_INDEX
+li class="progress-step{%
+Line
+Line Manager.</p
+Line Manager</a
+Line Manager</h2
+Line Managers.</p
+Line Report</a
+LINE_MANAGER_REMINDER_EMAIL
+Loan Pool'
+Lost/Stolen'
+LSD_HELP_DESK_CREDS                                       
+LSD_HELP_DESK_TOKEN
+LSD_HELP_DESK_INTERFACE
+manager_id
+Mark
+Mi-Fi Device'
+migrate$(COLOUR_NONE
+minimum_should_match
+Mismatch Email
+Mobile
+Movers and Leavers Service
+NAME
+name=
+National Insurance
+new_line_report_id"
+None                                       
+None" &&
+Notification Email
+OAB
+object.current_task_record
+OCS
+OCS_EMAIL
+OCS_OAB_LOCKER_EMAIL                                             
+Old Admiralty Building
+one_day_after_ld
+OpenSearch
+OPENSEARCH_JAVA_OPTS=-Xms512
+OPTIONS
+OrderedItem
+PAAS
+Paid
+ParsedUKSBSPDF
+ParsedUKSBSPDF"
+Pass notes</h2
+People Data
+People Finder
+People Finder API - '
+People Finder Health Check
+People Finder Health Check"
+people_finder_email
+PEOPLE_FINDER_HAWK_ACCESS_ID                                     |                                            |                                                                                       
+PEOPLE_FINDER_HAWK_SECRET_KEY
+PEOPLE_FINDER_INTERFACE
+PEOPLE_FINDER_INTERFACE                                  |                                            
+PEOPLE_FINDER_INTERFACE=core.people_finder.interfaces
+people_finder_result["email
+people_finder_result["email
+PersonData
+Physical Asset
+PhysicalAsset
+Port Replicator
+Port Replicator'
+process.</p
+Procurement Card
+Provide a comma
+python manage.py compilescss &&
+python manage.py migrate &&
+Raises
+Reason for Leaving Resignation
+recorded</h1
+Reminder Email
+Reminder Email*
+Report 2
+Request
+return_contact_email
+ReturnOptions
+risk.\n
+role="alert
+ROSA
+ROSA Access Revoked
+ROSA Kit
+ROSA Kit retrieved</h1
+ROSA kit.</p
+Rosa kit</li
+Rosa kit</li>
+ROSA Laptop
+ROSA Line
+ROSA Mobile
+rosa_laptop_returned_task_log
+rosa_mobile_returned_task_log
+Security
+SECURITY
+Security Team
+security_pass_disabled_task_log
+security_team_building_pass_complete
+SECURITY_TEAM_VETTING_EMAIL
+SECURITY_TEAM_VETTING_EMAIL                                      
+Send
+Send Feetham Security Pass Office
+Send Line
+Send OCS Email
+Send OCS OAB Locker
+send_leaver_thank_you_email
+Sensitive and Personal
+Service
+Service Now
+Service Now Health Check
+Service Now.</p>
+SERVICE_NAME
+SERVICE_NOW_DIT_DEPARTMENT_SYS_ID
+SERVICE_NOW_DIT_DEPARTMENT_SYS_ID=1234567890
+SERVICE_NOW_INTERFACE
+Session
+session.</p
+sizes="152x152
+Slack
+slack_access_task_log
+SLACK_SRE_CHANNEL_ID
+SlackMessage.objects.create
+Software Asset
+Sound Bar'
+Sound Bar"
+Split
+SQL
+SQL
+SRE
+SRE (Emails & Slack
+SRE Offboarding
+SRE Reminder Email
+sso_access_task_log
+sso_email_user_id
+staff_details.job_title %
+staff_id"
+STAFF_SSO_ACTIVITY_STREAM_ID
+staff_sso_legacy_id
+StaffDocument
+Start Line
+Store DSE
+StreamHandler
+target="_blank">here</a>.</li>
+TaskRecord
+Team Zendesk
+TEMPLATE_ID_CLU4_EMAIL
+TEMPLATE_ID_CLU4_EMAIL                                           |
+TEMPLATE_ID_CLU4_EMAIL                                           | None                                       |                                                                                       
+TEMPLATE_ID_FEETHAM_SECURITY_PASS_OFFICE_EMAIL                   
+TEMPLATE_ID_LINE_MANAGER_CORRECTION_EMAIL
+TEMPLATE_ID_LINE_MANAGER_CORRECTION_HR_EMAIL
+TEMPLATE_ID_LINE_MANAGER_CORRECTION_HR_EMAIL                     | None                                       |                                                                                       
+TEMPLATE_ID_LINE_MANAGER_NOTIFICATION_EMAIL
+TEMPLATE_ID_LINE_MANAGER_REMINDER_EMAIL                  
+TEMPLATE_ID_LINE_MANAGER_REMINDER_EMAIL                  | None                                       
+TEMPLATE_ID_LINE_MANAGER_REMINDER_EMAIL                  | None                                       |                                                                                       
+TEMPLATE_ID_LINE_MANAGER_THANKYOU_EMAIL
+TEMPLATE_ID_LINE_MANAGER_THANKYOU_EMAIL                  
+TEMPLATE_ID_LINE_MANAGER_THANKYOU_EMAIL |  |
+TEMPLATE_ID_SECURITY_OFFBOARD_RK_REMINDER_ON_LD                  
+TEMPLATE_ID_SRE_NOTIFICATION                                     
+TEMPLATE_ID_SRE_REMINDER_ON_LD                                   
+TEMPLATE_ID_SRE_REMINDER_ON_LD                                   | None                                       
+Templates
+Tests for `get_leaver_detail_updates` "
+Tests for `get_leaver_details_with_updates`
+Tests for `get_leaver_details_with_updates`
+Tests for `get_leaver_details` "
+Tests for `get_leaver_information`
+Tests for `store_cirrus_kit_information`
+Tests for `store_leaver_detail_updates` "
+Tests for `store_leaving_dates` "
+Tests for `store_return_information`
+Tests for `store_return_option
+the Cirrus Tech
+the Cirrus Tech Bar
+the CLU4 Team                                     
+the Data Recipient StaffDocument
+the DB Creates
+The DIT Leaving Service
+the Feetham Security Pass Office
+the Health and Safety Team</h2
+the Leaver Activity Stream
+the Leaver Form's
+the Leaving DIT
+the Leaving Request
+the Leaving Service
+the OCS OAB Locker Team                           
+the OCS Team                            
+the Security Team
+the Security Team User Group
+the SRE Team
+the SRE User Group
+the UK SBS API
+to:</p
+UK SBS - Unexpected
+UK SBS - Unexpected Response
+UK SBS Correction
+UKSBS
+UKSBS Connect
+UKSBS Leavers
+UKSBS Line
+UKSBS_INTERFACE
+UKSBS_POST_LEAVER_SUBMISSION                             
+UKSBS_POST_LEAVER_SUBMISSION                                     | None                                       
+UKSBSBase
+UKSBSStubbed
+Un
+unique_sso_legacy_user_id
+Unit of Measurement
+Unit of Measurement Hours
+UNUSED ATM
+Updated Contact Email
+Updated Personal Email
+User
+User
+users.</td
+Variables](/docs
+viewBox="0 0 483.2
+visit</li>
+vpn_access_task_log
+WHERE sso_user_id = %
+WhiteNoiseMiddleware
+WorkflowExecutor
+x.groups.first
+yet.</p
+You Email
+You Email*
+you.</p
+Zendesk
